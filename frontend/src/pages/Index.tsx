@@ -45,7 +45,7 @@ const Index = () => {
             <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
               <Building className="w-5 h-5 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold">UNIFIED MENTOR</span>
+            <span className="text-xl font-bold">Bridgely</span>
           </div>
           <div className="flex items-center space-x-4">
             <Link to="/login">
@@ -200,7 +200,7 @@ const Index = () => {
           </p>
           <Link to="/register">
             <Button size="lg" className="group">
-              Join UNIFIED MENTOR Today
+              Join Bridgely Today
               <Handshake className="ml-2 w-5 h-5 group-hover:scale-110 transition-transform" />
             </Button>
           </Link>
@@ -216,7 +216,7 @@ const Index = () => {
                 <div className="w-6 h-6 bg-primary rounded flex items-center justify-center">
                   <Building className="w-4 h-4 text-primary-foreground" />
                 </div>
-                <span className="font-bold">UNIFIED MENTOR</span>
+                <span className="font-bold">Bridgely</span>
               </div>
               <p className="text-sm text-muted-foreground">
                 Bridging the gap between investors and entrepreneurs for a prosperous business ecosystem.
@@ -248,7 +248,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t mt-8 pt-8 text-center text-sm text-muted-foreground">
-            <p>&copy; 2024 UNIFIED MENTOR. All rights reserved.</p>
+            <p>&copy; 2024 Bridgely. All rights reserved.</p>
           </div>
         </div>
       </footer>

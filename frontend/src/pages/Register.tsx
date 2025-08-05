@@ -77,7 +77,7 @@ const Register = () => {
             <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
               <Building className="w-5 h-5 text-primary-foreground" />
             </div>
-            <span className="text-2xl font-bold">UNIFIED MENTOR</span>
+            <span className="text-2xl font-bold">Bridgely</span>
           </div>
           <h1 className="text-3xl font-bold mb-2">Join Our Platform</h1>
           <p className="text-muted-foreground">Choose your role and start your journey</p>
